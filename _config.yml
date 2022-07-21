@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: My journey from Biology to computers
+description: Some example projects I´ve been working to learn more about data visualization, machine learning and AI.
 github_username: Dmaturana81
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "journey"
